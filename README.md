@@ -60,7 +60,7 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 💰 **Expense Tracker** | A simple, clean app for tracking daily expenses — add, categorize, and monitor spending at a glance | Node.js · Express · MongoDB |
+| 💰 **Expense Tracker** | A simple, clean app for tracking daily expenses — add, categorize, and monitor spending at a glance | ReactJS |
 | 🛒 **MERN Stack E-commerce** | Full-stack e-commerce platform with user auth, product listings, cart & checkout flow, order management, and an admin dashboard | React · Node.js · Express · MongoDB |
 
 ---
