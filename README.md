@@ -16,7 +16,6 @@
 ---
 
 ### 👤 About Me
-
 - 🎓 3rd Year **Software Engineering** student at **FAST NUCES, Karachi**
 - 🔧 Currently working with **RESTful APIs**, **WebSockets**, **Node.js**, **Express** & **MongoDB**
 - 📊 Exploring **Data Analysis** and **Machine Learning** with Python
@@ -62,6 +61,7 @@
 |---|---|---|---|
 | 💰 **Expense Tracker** | A simple, clean app for tracking daily expenses — add, categorize, and monitor spending at a glance | Node.js · Express · MongoDB | [🔗 View](https://expense-tracker-a77w.vercel.app/) |
 | 🛒 **MERN Stack E-commerce** | Full-stack e-commerce platform with user auth, product listings, cart & checkout flow, order management, and an admin dashboard | React · Node.js · Express · MongoDB | [🔗 View](https://mern-stack-ecommerce-chi.vercel.app/) |
+| ❤️ **Heart Attack Predictor** | ML web app that predicts heart disease risk from patient data — trained & compared multiple classifiers, deployed the best-performing model | Python · scikit-learn · Streamlit | [🔗 View](https://heart-attack-predictorr.streamlit.app/) |
 
 ---
 
