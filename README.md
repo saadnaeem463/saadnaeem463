@@ -9,6 +9,10 @@ Full-Stack Web Developer · Learning Machine Learning
 <a href="mailto:saadnaeem463@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+<p align="center">
+<img src="./terminal-stats.svg" width="100%"/>
+</p>
+
 ---
 
 ### 👤 About Me
