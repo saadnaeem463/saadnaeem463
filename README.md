@@ -62,7 +62,7 @@
 </p>
 </td>
 <td width="50%">
-<img src="./expense-tracker-card.svg?v=3" width="100%"/>
+<img src="./expense-tracker-card.svg?v=4" width="100%"/>
 <p align="center">
 <a href="https://expense-tracker-a77w.vercel.app/"><img src="https://img.shields.io/badge/-%E2%96%B6%20View%20Demo-e0393f?style=for-the-badge"/></a>
 <a href="https://github.com/saadnaeem463/Expense-Tracker"><img src="https://img.shields.io/badge/-View%20Code-1c2740?style=for-the-badge"/></a>
@@ -80,7 +80,13 @@
 <a href="https://github.com/saadnaeem463/Heart-Attack-Predictor"><img src="https://img.shields.io/badge/-View%20Code-3a161a?style=for-the-badge"/></a>
 </p>
 </td>
-<td width="50%"></td>
+<td width="50%">
+<img src="./civic-track-card.svg?v=1" width="100%"/>
+<p align="center">
+<a href="https://full-stack-civic-tracker.vercel.app/"><img src="https://img.shields.io/badge/-%E2%96%B6%20View%20Demo-e8833a?style=for-the-badge"/></a>
+<a href="https://github.com/saadnaeem463/Full-Stack-Civic-Tracker"><img src="https://img.shields.io/badge/-View%20Code-3a2612?style=for-the-badge"/></a>
+</p>
+</td>
 </tr>
 </table>
 
