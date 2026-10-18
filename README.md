@@ -11,6 +11,22 @@
 
 ---
 
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,py,html,css,cpp&perline=10" alt="JavaScript, TypeScript, Node.js, Express, React, Next.js, Python, HTML5, CSS3, C++"/>
+
+### Python, Data Science & Machine Learning
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow,pytorch,matplotlib&perline=10" alt="Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Matplotlib"/><img src="datascience-icon.svg" width="48" height="48" alt="Data Science"/>
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=10" alt="MongoDB, MySQL, PostgreSQL"/>
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=10" alt="Git, GitHub, Postman, VS Code"/>
+
+---
+
 ## 🚀 Projects
 
 <table>
@@ -52,27 +68,3 @@
     <td width="50%"></td>
   </tr>
 </table>
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,py,html,css,cpp&perline=10" alt="JavaScript, TypeScript, Node.js, Express, React, Next.js, Python, HTML5, CSS3, C++"/>
-
-### Python, Data Science & Machine Learning
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow,pytorch,matplotlib&perline=10" alt="Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Matplotlib"/><img src="datascience-icon.svg" width="48" height="48" alt="Data Science"/>
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=10" alt="MongoDB, MySQL, PostgreSQL"/>
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=10" alt="Git, GitHub, Postman, VS Code"/>
-
----
-
-<div align="center">
-
-📫 **[LinkedIn](https://www.linkedin.com/in/saad-naeem-5138a3409)** · **[saadnaeem463@gmail.com](mailto:saadnaeem463@gmail.com)**
-
-</div>
