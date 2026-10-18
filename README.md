@@ -17,7 +17,38 @@
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,py,html,css,cpp&perline=10" alt="JavaScript, TypeScript, Node.js, Express, React, Next.js, Python, HTML5, CSS3, C++"/>
 
 ### Python, Data Science & Machine Learning
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow,pytorch,matplotlib&perline=10" alt="Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Matplotlib"/><img src="datascience-icon.svg" width="48" height="48" alt="Data Science"/>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="pandas-icon.svg" width="48" height="48" alt="Pandas"/><br/>
+      <sub><b>Pandas</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="numpy-icon.svg" width="48" height="48" alt="NumPy"/><br/>
+      <sub><b>NumPy</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn"/><br/>
+      <sub><b>scikit-learn</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/><br/>
+      <sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/><br/>
+      <sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="matplotlib-icon.svg" width="48" height="48" alt="Matplotlib"/><br/>
+      <sub><b>Matplotlib</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="datascience-icon.svg" width="48" height="48" alt="Data Science"/><br/>
+      <sub><b>Data Science</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=10" alt="MongoDB, MySQL, PostgreSQL"/>
