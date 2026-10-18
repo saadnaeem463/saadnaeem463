@@ -14,7 +14,52 @@
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,py,html,css,cpp&perline=10" alt="JavaScript, TypeScript, Node.js, Express, React, Next.js, Python, HTML5, CSS3, C++"/>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js"/><br/>
+      <sub><b>Express.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/><br/>
+      <sub><b>React</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/><br/>
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/><br/>
+      <sub><b>C++</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Python, Data Science & Machine Learning
 <table>
@@ -51,10 +96,44 @@
 </table>
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=10" alt="MongoDB, MySQL, PostgreSQL"/>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/><br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=10" alt="Git, GitHub, Postman, VS Code"/>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/><br/>
+      <sub><b>Postman</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
