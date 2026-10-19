@@ -137,35 +137,45 @@
 
 ---
 
+## 🌐 Portfolio
+
+<div align="center">
+  <a href="https://saad-naeem.vercel.app/"><img src="portfolio-card.svg" alt="Saad Naeem Portfolio" width="420"/></a>
+  <br/>
+  <a href="https://saad-naeem.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B6_VISIT_PORTFOLIO-006e8a?style=for-the-badge" alt="Visit Portfolio"/></a>
+</div>
+
+---
+
 ## 🚀 Projects
 
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="MARKET_HALL_DEMO_URL"><img src="market-hall-card.svg" alt="Market Hall" width="100%"/></a>
+      <a href="https://mern-stack-ecommerce-chi.vercel.app/"><img src="market-hall-card.svg" alt="Market Hall" width="100%"/></a>
       <br/>
-      <a href="MARKET_HALL_DEMO_URL"><img src="https://img.shields.io/badge/%E2%96%B6_VIEW_DEMO-2ea44f?style=for-the-badge" alt="View Demo"/></a>
-      <a href="MARKET_HALL_REPO_URL"><img src="https://img.shields.io/badge/VIEW_CODE-1c2333?style=for-the-badge" alt="View Code"/></a>
+      <a href="https://mern-stack-ecommerce-chi.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B6_VIEW_DEMO-2ea44f?style=for-the-badge" alt="View Demo"/></a>
+      <a href="https://github.com/saadnaeem463/MERN-Stack-Ecommerce"><img src="https://img.shields.io/badge/VIEW_CODE-1c2333?style=for-the-badge" alt="View Code"/></a>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="EXPENSE_TRACKER_DEMO_URL"><img src="expense-tracker-card.svg" alt="Expense Tracker" width="100%"/></a>
+      <a href="https://expense-tracker-a77w.vercel.app/"><img src="expense-tracker-card.svg" alt="Expense Tracker" width="100%"/></a>
       <br/>
-      <a href="EXPENSE_TRACKER_DEMO_URL"><img src="https://img.shields.io/badge/%E2%96%B6_VIEW_DEMO-e5353f?style=for-the-badge" alt="View Demo"/></a>
-      <a href="EXPENSE_TRACKER_REPO_URL"><img src="https://img.shields.io/badge/VIEW_CODE-1c2333?style=for-the-badge" alt="View Code"/></a>
+      <a href="https://expense-tracker-a77w.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B6_VIEW_DEMO-e5353f?style=for-the-badge" alt="View Demo"/></a>
+      <a href="https://github.com/saadnaeem463/Expense-Tracker"><img src="https://img.shields.io/badge/VIEW_CODE-1c2333?style=for-the-badge" alt="View Code"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="HEART_PREDICTOR_DEMO_URL"><img src="heart-predictor-card.svg" alt="Heart Attack Predictor" width="100%"/></a>
+      <a href="https://heart-attack-predictorr.streamlit.app/"><img src="heart-predictor-card.svg" alt="Heart Attack Predictor" width="100%"/></a>
       <br/>
-      <a href="HEART_PREDICTOR_DEMO_URL"><img src="https://img.shields.io/badge/%E2%96%B6_VIEW_DEMO-e5353f?style=for-the-badge" alt="View Demo"/></a>
-      <a href="HEART_PREDICTOR_REPO_URL"><img src="https://img.shields.io/badge/VIEW_CODE-1c2333?style=for-the-badge" alt="View Code"/></a>
+      <a href="https://heart-attack-predictorr.streamlit.app/"><img src="https://img.shields.io/badge/%E2%96%B6_VIEW_DEMO-e5353f?style=for-the-badge" alt="View Demo"/></a>
+      <a href="https://github.com/saadnaeem463/Heart-Attack-Predictor"><img src="https://img.shields.io/badge/VIEW_CODE-1c2333?style=for-the-badge" alt="View Code"/></a>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="CIVICTRACK_DEMO_URL"><img src="civic-track-card.svg" alt="CivicTrack" width="100%"/></a>
+      <a href="https://full-stack-civic-tracker.vercel.app/"><img src="civic-track-card.svg" alt="CivicTrack" width="100%"/></a>
       <br/>
-      <a href="CIVICTRACK_DEMO_URL"><img src="https://img.shields.io/badge/%E2%96%B6_VIEW_DEMO-f59e0b?style=for-the-badge" alt="View Demo"/></a>
-      <a href="CIVICTRACK_REPO_URL"><img src="https://img.shields.io/badge/VIEW_CODE-1c2333?style=for-the-badge" alt="View Code"/></a>
+      <a href="https://full-stack-civic-tracker.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B6_VIEW_DEMO-f59e0b?style=for-the-badge" alt="View Demo"/></a>
+      <a href="https://github.com/saadnaeem463/Full-Stack-Civic-Tracker"><img src="https://img.shields.io/badge/VIEW_CODE-1c2333?style=for-the-badge" alt="View Code"/></a>
     </td>
   </tr>
   <tr>
